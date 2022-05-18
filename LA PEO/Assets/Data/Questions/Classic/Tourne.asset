@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a2c74b255d11ec439021fa45a2500be, type: 3}
+  m_Name: Tourne
+  m_EditorClassIdentifier: 
+  question: Qu'est-ce qui tourne ?
+  type: 0
+  answers:
+  - answer: Terre
+    voters: 10
+  - answer: Roue
+    voters: 7
+  - answer: Toupie
+    voters: 5
+  - answer: Tete
+    voters: 3
+  - answer: "Man\xE8ge"
+    voters: 2
+  - answer: Moteur
+    voters: 2
+  - answer: Ta mere
+    voters: 2
+  otherVoters: 12

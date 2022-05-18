@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a2c74b255d11ec439021fa45a2500be, type: 3}
+  m_Name: Meilleur Jeu P5
+  m_EditorClassIdentifier: 
+  question: Meilleur jeu P5 (hors cette annee) ?
+  type: 0
+  answers:
+  - answer: Swift
+    voters: 8
+  - answer: Live Adventure
+    voters: 7
+  - answer: En Garde!
+    voters: 6
+  - answer: Nothing In Sight
+    voters: 3
+  - answer: Wasteland Hunters
+    voters: 3
+  - answer: Aefen Fall
+    voters: 2
+  - answer: Toxic Pink
+    voters: 2
+  otherVoters: 7

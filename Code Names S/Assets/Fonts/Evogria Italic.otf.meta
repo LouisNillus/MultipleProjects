@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: aeee117eee6264e4ea6d809184c2f0de
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Evogria
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 83828df60d8c65a49afc943d796c21b3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

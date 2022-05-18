@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a2c74b255d11ec439021fa45a2500be, type: 3}
+  m_Name: Epoque Historique
+  m_EditorClassIdentifier: 
+  question: A quelle grande epoque historique iriez-vous si vous pouviez remonter
+    dans le temps ?
+  type: 0
+  answers:
+  - answer: Fin XXeme
+    voters: 10
+  - answer: Antiquite
+    voters: 8
+  - answer: Moyen-Age
+    voters: 6
+  - answer: Renaissance
+    voters: 5
+  - answer: Belle epoque
+    voters: 3
+  - answer: Prehistoire
+    voters: 2
+  - answer: Revolution industriel
+    voters: 2
+  otherVoters: 2
